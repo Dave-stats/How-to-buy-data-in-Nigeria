@@ -10,3 +10,8 @@ This project operates on a core belief: **Human data usage is never truly random
 
 By extracting the **mean and median** of these routines and testing them against a **rigorous, standardized analysis of market plans**, this model bypasses the "marketing noise." Instead of buying data based on habit or guesswork, we use the user's own behavioral pattern to mathematically determine the path of maximum efficiency.
 
+---
+
+## 📂 Project Resources
+* 📊 **[Interactive Jupyter Notebook](./DATA%20OPTIMIZATION%20PROJECT.ipynb)** - See the 10,000-iteration simulation and Python code.
+* 📖 **[Full Process Analysis (PDF)](./DATA%20PLAN%20OPTIMIZATION%20ANALYSIS%20PROCESS.pdf)** - Read the deep-dive methodology and results.
